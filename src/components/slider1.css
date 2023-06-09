@@ -1,0 +1,137 @@
+.in_slider {
+  margin: 48px 10px 0 46px;
+  width: 404.7px;
+  height: 171.5px;
+}
+
+.card {
+  width: 189.7px !important;
+  height: 171.5px;
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.2) 27.5%,
+      rgba(22, 93, 255, 0.162) 157.71%
+    ),
+    #ffffff;
+  box-shadow: 0px 2.8px 7px rgba(0, 0, 0, 0.04),
+    0px 0.7px 0.7px rgba(0, 0, 0, 0.04);
+  border-radius: 8.4px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.header p {
+  margin: 14px 13.7px 0 0;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 9.1px;
+  line-height: 120%;
+  color: #19191a;
+  float: right;
+  width: 22px;
+  height: 11px;
+}
+.bell {
+  display: flex;
+  flex-direction: column;
+}
+.bell .bell1 {
+  width: 21px;
+  height: 17.5px;
+  margin: 16.33px 0 0 17.5px;
+}
+.bell .bell2 {
+  width: 6.04px;
+  height: 4.16px;
+  margin: 1.67px 0 0 25px;
+}
+.wallet .wallet1 {
+  margin: 31.5px 0 0 19.6px;
+}
+.wallet .wallet2 {
+  margin: 17.5px 0 0 8.6px;
+}
+.wallet .wallet3 {
+  margin: 25.9px 0 0 8.4px;
+}
+.right {
+  margin: 14px 14px 0 0;
+  background: #0071e3;
+  border-radius: 4.2px;
+  width: 14px;
+  height: 14px;
+}
+.right img {
+  width: 7px;
+  height: 6.66px;
+}
+.moneybox {
+  margin: 14.6px 0 0 14px;
+  display: flex;
+  background: rgba(229, 229, 230, 0.5);
+  border-radius: 2.8px;
+  width: 66.4px;
+  height: 19.6px;
+}
+.moneybox p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.1px;
+  line-height: 120%;
+  margin: 4.2px 0 0 4.2px;
+}
+.moneybox img {
+  width: 5.11px;
+  height: 2.73px;
+  margin: 8.4px 0 0 5.85px;
+}
+.wallet_note {
+  margin: 57.4px 0 0 14px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11.2px;
+  line-height: 120%;
+}
+.time .time1 {
+  margin: 16.3px 0 0 16.3px;
+  width: 23.33px;
+  height: 23.33px;
+}
+.time .time2 {
+  position: absolute;
+  margin: 21px 0 0 -13px;
+}
+.time_note {
+  margin: 41.53px 0 0 14px;
+  width: 114.1px;
+  height: 26px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11.2px;
+  line-height: 120%;
+}
+.end p {
+  width: 107.8px;
+  height: 13px;
+  margin: 8.4px 0 14.5px 14px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11.2px;
+  line-height: 120%;
+}
+.note p {
+  margin: 8.34px 30.7px 15px 14px;
+}
+.mail_box p {
+  margin: 0 14px 14px 14px;
+  border: 0.7px solid #d4d4d4;
+  border-radius: 5.6px;
+  padding: 8.4px 11.2px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 120%;
+}
